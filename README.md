@@ -19,7 +19,7 @@ Jan 2023 – Sep 2023
 🔄 Reduced deployment times by 30% and increased frequency by 25% with CI/CD pipelines using Jenkins and GitHub.
 🔍 Implemented proactive monitoring solutions, reducing failure rates by 20-30%.
 Web Developer Intern | Future Ready Talent & Microsoft | Remote
-Jan 2022 – Apr 2022
+Jan 2022 – Apr 2022 
 
 🌐 Developed key components for the MaskMe website, focusing on societal issues.
 🎨 Executed frontend UI projects, reducing workforce needs by 20%.
