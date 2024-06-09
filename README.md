@@ -8,6 +8,7 @@
 
 
 Full-Stack Intern | Cuvette | Remote
+
 Oct 2023 – Jun 2024
 
 🚀 Enhanced a React application, reducing load times by ~60%.
@@ -19,24 +20,38 @@ Oct 2023 – Jun 2024
 🛠️ Optimized server-side API calls and caching strategies, increasing performance by 20%.
 
 DevOps Intern | Baari Labs | Remote
+
 Jan 2023 – Sep 2023
 
 📈 Improved resource utilization by 30% and scalability by 40% with Docker and Kubernetes.
+
 🔄 Reduced deployment times by 30% and increased frequency by 25% with CI/CD pipelines using Jenkins and GitHub.
+
 🔍 Implemented proactive monitoring solutions, reducing failure rates by 20-30%.
+
 Web Developer Intern | Future Ready Talent & Microsoft | Remote
+
 Jan 2022 – Apr 2022 
 
 🌐 Developed key components for the MaskMe website, focusing on societal issues.
+
 🎨 Executed frontend UI projects, reducing workforce needs by 20%.
+
 🧪 Conducted user testing and iterated on the website and chatbot functionality.
+
 🛠️ Skills
 Proficient: React JS, Redux, JavaScript, Node JS, Express JS, MERN Stack, MongoDB
+
 Intermediate: Docker, Linux, Git, Socket IO, WebSocket, SQL, NoSQL, Next JS
+
 Familiar: Redis, RESTful API Design, Frontend, Backend, Full-stack development, AWS, G-Cloud
+
 📚 Education
+
 University Institute of Technology, RGPV | Bhopal
+
 B. Tech. in Computer Science And Engineering | 7.99 CGPA
+
 May 2023
 
 🔗 Connect with Me
