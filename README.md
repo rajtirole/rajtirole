@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rajtirole
 - 👀 I’m interested in devops and MLops
 - 🌱 I’m currently learning cloud computing and web development
-- 💞️ I’m looking to collaborate on python
+- 💞️ I’m looking to collaborate on python 
 - 📫 you can contact me @rajtirole23454@gmail.com
   
 💼 Experience
