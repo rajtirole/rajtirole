@@ -5,13 +5,19 @@
 - 📫 you can contact me @rajtirole23454@gmail.com
   
 💼 Experience
+
+
 Full-Stack Intern | Cuvette | Remote
 Oct 2023 – Jun 2024
 
 🚀 Enhanced a React application, reducing load times by ~60%.
+
 ⚡ Improved server response time by 40% using NodeJS and SQL/NoSQL technologies.
+
 🐳 Streamlined and containerized API services with Docker, deployed via Amazon Lambda, boosting scalability by 60%.
+
 🛠️ Optimized server-side API calls and caching strategies, increasing performance by 20%.
+
 DevOps Intern | Baari Labs | Remote
 Jan 2023 – Sep 2023
 
